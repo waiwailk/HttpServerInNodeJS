@@ -1,0 +1,15 @@
+CRUD REST API with Node.js, Express, and SQLite
+https://dev.to/mayank30/express-rest-api-simple-crud-using-sqlite-i94
+https://geshan.com.np/blog/2021/10/nodejs-sqlite/
+https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/
+https://medium.co/rest-api-using-sqlite3-nodejs-and-expressjs-f8c0c0847fe5
+https://github.com/codesprintpro/restapiusingnodejsandsqlite3/tree/master
+https://levelup.gitconnected.com/vue-node-web-application-59d3376e403e
+https://www.quora.com/How-to-use-VueJS-with-NodeJS
+https://geshan.com.np/blog/2021/10/nodejs-read-file-line-by-line/
+https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/
+https://auth0.com/blog/how-to-make-secure-http-requests-with-vue-and-express/
+https://stackoverflow.com/questions/56110884/nodejs-backend-communicate-to-vuejs-frontend
+https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0
+https://www.robinwieruch.de/node-js-express-tutorial/
+
